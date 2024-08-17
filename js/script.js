@@ -1,3 +1,6 @@
+//apikey added here because its a free api anyone can generate
+// from a public page themoviedb
+
 const global = {
   currentPage: window.location.pathname,
   search: {
